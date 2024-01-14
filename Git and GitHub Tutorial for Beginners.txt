@@ -1,6 +1,6 @@
 Git and GitHub Tutorial for Beginners
 ======================================
-
+Youtube Link : https://www.youtube.com/watch?v=tRZGeaHPoaw&t=99s
 create a new repository on the command line
 ========================================
 echo "# GitAndGithubNotesRepo" >> README.md
